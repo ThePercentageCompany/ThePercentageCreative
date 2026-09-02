@@ -1,0 +1,124 @@
+{
+  "nav": {
+    "services": "Servicios",
+    "whatWeMake": "Qué Hacemos",
+    "clients": "Clientes",
+    "branding": "Branding",
+    "contact": "Contacto",
+    "talkToUs": "Hablemos",
+    "getStarted": "Comenzar"
+  },
+  "hero": {
+    "eyebrow": "Diseño que funciona al 100%",
+    "title": "Diseño creado para empresas que buscan verse tan sólidas como son.",
+    "lead": "Estudio de diseño gráfico especializado en piezas impresas, empaque y sistemas de marca digital de alto impacto.",
+    "getStarted": "Comenzar",
+    "seeClients": "Ver clientes"
+  },
+  "clientsStrip": {
+    "andMore": "& más"
+  },
+  "intro": {
+    "title": "Diseñado para marcas que necesitan destacar",
+    "lead": "Trabajamos con empresas en crecimiento en bienestar, retail, juguetes y comercio internacional. Ya sea un cartel o una identidad visual completa, mantenemos el trabajo claro, consistente y listo para producción.",
+    "printTitle": "Impresión de Impacto",
+    "printDesc": "Folletos, carteles, flyers y etiquetas listos para imprimir: maquetación limpia, tamaños exactos y archivos aptos para imprenta.",
+    "digitalTitle": "Diseño Digital",
+    "digitalDesc": "Imágenes para redes sociales, anuncios y creatividades web que se ven nítidas en cada pantalla.",
+    "identityTitle": "Identidad Duradera",
+    "identityDesc": "Sistemas de logotipo, color y tipografía para que cada elemento refleje la misma solidez corporativa."
+  },
+  "services": {
+    "title": "Un solo estudio para impresión, digital y branding",
+    "lead": "Un solo brief, un solo equipo y un lenguaje visual coherente: desde el boceto inicial hasta los archivos de producción.",
+    "brochuresTitle": "Folletos y Catálogos",
+    "brochuresDesc": "Catálogos de productos y perfiles corporativos que comunican con claridad y elegancia.",
+    "postersTitle": "Carteles y Flyers",
+    "postersDesc": "Piezas para eventos, retail y campañas diseñadas para captar miradas en la calle o en la pantalla.",
+    "digitalTitle": "Imágenes Digitales",
+    "digitalDesc": "Publicaciones y banners web optimizados para las plataformas que usan sus clientes.",
+    "labelsTitle": "Etiquetas y Empaque",
+    "labelsDesc": "Etiquetas de productos y gráficos de empaque legibles en estantería y preparados para producción."
+  },
+  "pillars": {
+    "localTitle": "Relevancia en el Mercado",
+    "localDesc": "Diseño adaptado a su sector: cosmética ayurvédica, comercio, juguetes e industria.",
+    "deliveryTitle": "Entrega Confiable",
+    "deliveryDesc": "Archivos estructurados, exportaciones listas para imprimir y revisiones organizadas.",
+    "controlTitle": "Control de Marca",
+    "controlDesc": "Reglas de color, tipografía y logotipo para que cada nuevo diseño mantenga su identidad."
+  },
+  "ctaBand": {
+    "title": "Inicie una nueva marca o refuerce la actual",
+    "lead": "El branding con nosotros incluye logotipo, selección de color, carteles y todos los soportes necesarios.",
+    "btn": "Comenzar"
+  },
+  "simplify": {
+    "title": "Una forma sencilla de trabajar con un estudio de diseño",
+    "lead": "Briefings claros, fases estructuradas y archivos maestros duraderos.",
+    "step1Title": "Brief",
+    "step1Desc": "Definimos la pieza, la audiencia y los plazos antes de comenzar a diseñar.",
+    "step2Title": "Diseño",
+    "step2Desc": "Conceptos de logotipo, color, maquetación y tipografía hasta la aprobación.",
+    "step3Title": "Aplicación",
+    "step3Desc": "Extendemos el sistema a carteles, flyers, etiquetas y canales digitales.",
+    "step4Title": "Entrega",
+    "step4Desc": "Archivos listos para imprenta y web con pautas de aplicación claras."
+  },
+  "clients": {
+    "title": "La confianza de empresas que venden todos los días",
+    "lead": "Desde laboratorios ayurvédicos hasta marcas de juguetes y comercio internacional.",
+    "tagWellness": "Bienestar",
+    "tagTrade": "Comercio",
+    "tagPets": "Mascotas",
+    "tagToys": "Juguetes",
+    "tagRetail": "Retail",
+    "tagFood": "Alimentación",
+    "kelyDesc": "Identidad de marca y diseño impreso para una línea de bienestar ayurvédico.",
+    "kottakkalDesc": "Diseño visual para un nombre referente en medicina tradicional.",
+    "welltechDesc": "Gráficos corporativos y de producto para una corporación global.",
+    "petsOriginDesc": "Empaque y piezas de campaña para una marca de nutrición para mascotas.",
+    "oggyToyDesc": "Gráficos alegres y enérgicos para una marca de juguetes.",
+    "newDelmonDesc": "Diseño comercial para tiendas y nueva gama de productos.",
+    "alJazeeraDesc": "Empaque, etiquetas y diseño comercial para empresa de distribución de alimentos."
+  },
+  "news": {
+    "tagStudio": "Estudio",
+    "studioTitle": "Branding completo, no solo un archivo de logotipo",
+    "studioDesc": "Logotipo, paleta de colores, carteles y directrices para una identidad sólida.",
+    "studioLink": "Iniciar proyecto",
+    "tagPrintDigital": "Print y Digital",
+    "campaignTitle": "De un cartel a una campaña completa",
+    "campaignDesc": "Folletos, flyers, etiquetas e imágenes digitales con una identidad visual armoniosa.",
+    "campaignLink": "Solicitar campaña"
+  },
+  "contact": {
+    "eyebrow": "Contacto",
+    "title": "Cuéntenos qué necesita diseñar",
+    "lead": "Folleto, cartel, flyer, imagen digital, etiqueta, logotipo o branding integral. Envíenos una nota y responderemos de inmediato.",
+    "point1": "Archivos listos para imprenta y web",
+    "point2": "Sistemas de logotipo y paleta cromática",
+    "point3": "Carteles, flyers, etiquetas y campañas",
+    "nameLabel": "Nombre",
+    "emailLabel": "Correo electrónico",
+    "needLabel": "¿Qué necesita?",
+    "selectPlaceholder": "Seleccione un servicio",
+    "optBrochure": "Folleto / Catálogo",
+    "optPoster": "Cartel / Poster",
+    "optFlyer": "Flyer",
+    "optDigital": "Imágenes digitales",
+    "optLabels": "Etiquetas y Empaque",
+    "optLogo": "Logotipo",
+    "optBranding": "Branding completo (logo, color, carteles)",
+    "optOther": "Otro servicio",
+    "messageLabel": "Mensaje",
+    "messagePlaceholder": "Cuéntenos sobre su marca, la pieza requerida y sus plazos de entrega.",
+    "btnSubmit": "Enviar mensaje",
+    "statusRequired": "Por favor complete todos los campos.",
+    "statusSuccess": "Abriendo su aplicación de correo para enviar el mensaje."
+  },
+  "footer": {
+    "tagline": "Diseño gráfico para impresión, digital y marca.",
+    "allRights": "Todos los derechos reservados."
+  }
+}

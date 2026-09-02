@@ -1,0 +1,124 @@
+{
+  "nav": {
+    "services": "Hizmetler",
+    "whatWeMake": "Neler Yapıyoruz",
+    "clients": "Müşteriler",
+    "branding": "Markalama",
+    "contact": "İletişim",
+    "talkToUs": "Bize Ulaşın",
+    "getStarted": "Hemen Başlayın"
+  },
+  "hero": {
+    "eyebrow": "%100 Etki Yaratan Tasarım",
+    "title": "Olduğu kadar güçlü görünmek isteyen markalar için özel tasarım.",
+    "lead": "Yüksek etkili baskı, ambalaj ve dijital marka sistemleri tasarlayan yaratıcı grafik stüdyosu.",
+    "getStarted": "Hemen Başlayın",
+    "seeClients": "Müşterilerimizi Görün"
+  },
+  "clientsStrip": {
+    "andMore": "& fazlası"
+  },
+  "intro": {
+    "title": "Fark edilmek isteyen markalar için tasarlandı",
+    "lead": "Sağlık, perakende, oyuncak ve uluslararası ticaret sektörlerindeki büyüyen şirketlerle çalışıyoruz. İster bir kampanya afişi ister komple kurumsal kimlik olsun, çalışmalarımızı net ve baskıya hazır sunuyoruz.",
+    "printTitle": "Etkili Baskı İşleri",
+    "printDesc": "Baskıya hazır broşürler, afişler, el ilanları ve etiketler — matbaanızın doğrudan kullanabileceği kusursuz dosyalar.",
+    "digitalTitle": "Dijital Görseller",
+    "digitalDesc": "Sosyal medya gönderileri, reklamlar ve her ekranda keskin görünen web grafikleri.",
+    "identityTitle": "Kalıcı Marka Kimliği",
+    "identityDesc": "Her ürünün, ambalajın ve profilin aynı şirkete ait olduğunu hissettiren logo ve renk sistemleri."
+  },
+  "services": {
+    "title": "Baskı, dijital ve markalama için tek stüdyo",
+    "lead": "Tek bir brifing, uzman bir ekip ve tutarlı bir görsel dil — ilk eskizden baskı ve web dosyalarına kadar.",
+    "brochuresTitle": "Broşürler",
+    "brochuresDesc": "İşinizi kalabalık görünmeden net bir şekilde anlatan ürün katalogları ve kurumsal profiller.",
+    "postersTitle": "Afişler & El İlanları",
+    "postersDesc": "Sokakta, mağazada veya ekranda dikkatleri üzerine çeken etkinlik ve kampanya tasarımları.",
+    "digitalTitle": "Dijital Görseller",
+    "digitalDesc": "Müşterilerinizin kullandığı sosyal medya ve dijital kanallara özel optimize edilmiş grafikler.",
+    "labelsTitle": "Etiket & Ambalaj",
+    "labelsDesc": "Rafta öne çıkan ve üretim standartlarına tam uyumlu ürün etiketleri ve ambalaj tasarımları."
+  },
+  "pillars": {
+    "localTitle": "Pazar Uyumu",
+    "localDesc": "Ayurveda, perakende, oyuncak ve ticaret markalarına özel sektörel görsel dil.",
+    "deliveryTitle": "Güvenilir Teslimat",
+    "deliveryDesc": "Yapılandırılmış ana dosyalar, baskıya hazır dışa aktarımlar ve organize revizyon süreçleri.",
+    "controlTitle": "Marka Kontrolü",
+    "controlDesc": "Renk, tipografi ve logo kuralları sayesinde her yeni tasarımda tam tutarlılık."
+  },
+  "ctaBand": {
+    "title": "Yeni bir marka oluşturun veya mevcut olanı güçlendirin",
+    "lead": "Bizimle markalama; logo, renk seçimi, afişler ve şirketinizi profesyonel gösteren tüm tamamlayıcı unsurları içerir.",
+    "btn": "Hemen Başlayın"
+  },
+  "simplify": {
+    "title": "Tasarım stüdyosuyla çalışmanın en kolay yolu",
+    "lead": "Net brifingler, planlı aşamalar ve uzun yıllar kullanabileceğiniz master dosyalar.",
+    "step1Title": "Brifing",
+    "step1Desc": "İhtiyacınızı, hedef kitlenizi ve teslim tarihinizi belirtin. Çizime başlamadan önce yönü belirleriz.",
+    "step2Title": "Tasarım",
+    "step2Desc": "Logo, renk, mizanpaj ve tipografi konseptleri — onaylanana kadar detaylıca işlenir.",
+    "step3Title": "Uygulama",
+    "step3Desc": "Sistemi afişlere, el ilanlarına, etiketlere ve dijital platformlara uyarlarız.",
+    "step4Title": "Teslimat",
+    "step4Desc": "Baskıya ve web ortamına hazır dosyalar, kullanım rehberi ile birlikte teslim edilir."
+  },
+  "clients": {
+    "title": "Her gün satış yapan markaların tercihi",
+    "lead": "Geleneksel sağlık kuruluşlarından oyuncak ve küresel ticaret devlerine kadar.",
+    "tagWellness": "Sağlık & Yaşam",
+    "tagTrade": "Ticaret",
+    "tagPets": "Evcil Hayvan",
+    "tagToys": "Oyuncak",
+    "tagRetail": "Perakende",
+    "tagFood": "Gıda",
+    "kelyDesc": "Ayurvedik ürün serisi için kurumsal kimlik ve ambalaj tasarımı.",
+    "kottakkalDesc": "Geleneksel bir sağlık markası için kurumsal görsel çalışmalar.",
+    "welltechDesc": "Küresel pazara yönelik kurumsal profil ve ürün grafikleri.",
+    "petsOriginDesc": "Organik evcil hayvan maması markası için ambalaj ve kampanya işleri.",
+    "oggyToyDesc": "Oyuncak markası için eğlenceli ve dinamik ambalaj grafikleri.",
+    "newDelmonDesc": "Mağaza ve yeni ürün serileri için perakendeye hazır tasarımlar.",
+    "alJazeeraDesc": "Gıda dağıtım şirketi için ambalaj, etiket ve ticari marka grafikleri."
+  },
+  "news": {
+    "tagStudio": "Stüdyo",
+    "studioTitle": "Sadece bir logo değil, eksiksiz bir marka sistemi",
+    "studioDesc": "Logo, renk paleti, afişler ve kurallar bütünü — böylece tüm materyalleriniz uyum içinde olur.",
+    "studioLink": "Marka projesi başlatın",
+    "tagPrintDigital": "Baskı & Dijital",
+    "campaignTitle": "Tek bir afişten komple bir kampanyaya",
+    "campaignDesc": "Aynı görsel dili paylaşan broşürler, el ilanları, etiketler ve dijital görseller.",
+    "campaignLink": "Kampanya brifi verin"
+  },
+  "contact": {
+    "eyebrow": "İletişim",
+    "title": "Tasarlanmasını istediğiniz projeyi anlatın",
+    "lead": "Broşür, afiş, el ilanı, dijital görsel, etiket, logo veya komple marka kimliği. Kısa bir not gönderin, hemen dönüş yapalım.",
+    "point1": "Baskıya ve web yayınına hazır dosyalar",
+    "point2": "Logo ve renk hiyerarşisi sistemleri",
+    "point3": "Afişler, el ilanları, etiketler ve lansman kampanyaları",
+    "nameLabel": "Adınız Soyadınız",
+    "emailLabel": "E-posta Adresiniz",
+    "needLabel": "Hangi hizmete ihtiyacınız var?",
+    "selectPlaceholder": "Hizmet seçiniz",
+    "optBrochure": "Broşür",
+    "optPoster": "Afiş / Poster",
+    "optFlyer": "El İlanı / Flyer",
+    "optDigital": "Dijital Görseller",
+    "optLabels": "Etiket & Ambalaj",
+    "optLogo": "Logo Tasarımı",
+    "optBranding": "Komple Markalama (Logo, Renk, Afiş)",
+    "optOther": "Diğer",
+    "messageLabel": "Mesajınız",
+    "messagePlaceholder": "Markanızdan, istediğiniz tasarımdan ve teslim sürenizden bahsedin.",
+    "btnSubmit": "Mesaj Gönder",
+    "statusRequired": "Lütfen tüm zorunlu alanları doldurun.",
+    "statusSuccess": "Mesajınızı göndermek için e-posta uygulamanız açılıyor."
+  },
+  "footer": {
+    "tagline": "Baskı, dijital ve marka için grafik tasarım.",
+    "allRights": "Tüm hakları saklıdır."
+  }
+}

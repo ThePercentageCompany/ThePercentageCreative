@@ -1,0 +1,124 @@
+{
+  "nav": {
+    "services": "Misala",
+    "whatWeMake": "Oyo Tosalaka",
+    "clients": "Bakiliya",
+    "branding": "Branding",
+    "contact": "Kutana na Biso",
+    "talkToUs": "Solola na Biso",
+    "getStarted": "Banda Sikoyo"
+  },
+  "hero": {
+    "eyebrow": "Design oyo esalaka na 100%",
+    "title": "Design ya kitoko mpo na bakompanyi oyo elingi kozala makasi na miso ya bato.",
+    "lead": "Studio ya graphic design oyo esalaka ba imprimeries, emballage mpe ba systèmes ya marque ya makasi.",
+    "getStarted": "Banda Sikoyo",
+    "seeClients": "Tala Bakiliya"
+  },
+  "clientsStrip": {
+    "andMore": "& basusu"
+  },
+  "intro": {
+    "title": "Esalemi mpo na ba marques oyo esengeli komonana",
+    "lead": "Tosalaka elongo na ba entreprises ya kolonga na kolongono, magazini, masano mpe mombongo. Totikaka mosala pete, kitoko mpe ya kobima mbala moko.",
+    "printTitle": "Imprimerie ya Kitoko",
+    "printDesc": "Ba brochures, ba affiches, ba dépliants mpe ba étiquettes oyo ebongisami malamu mpo na kobimisa.",
+    "digitalTitle": "Bilili ya Numérique",
+    "digitalDesc": "Bilili ya ba réseaux sociaux mpe ba publicités oyo ezalaka kitoko na ba écrans nionso.",
+    "identityTitle": "Identité oyo Eumelaka",
+    "identityDesc": "Logo, langi mpe mibeko ya marque mpo biloko nionso ezala na elongi moko."
+  },
+  "services": {
+    "title": "Studio moko mpo na imprimerie, numérique mpe marque",
+    "lead": "Briefing moko, équipe moko mpe monoko moko ya visual — kobanda na ebandeli tii na ba fichiers ya suka.",
+    "brochuresTitle": "Ba Brochures",
+    "brochuresDesc": "Ba catalogues ya biloko mpe ba profils ya compagnie oyo elimbolaka misala na bino.",
+    "postersTitle": "Ba Affiches & Flyers",
+    "postersDesc": "Biloko ya feti mpe ya publicité oyo ebendaka likebi ya bato na balabala to na internet.",
+    "digitalTitle": "Bilili ya Numérique",
+    "digitalDesc": "Ba posts ya réseaux sociaux mpe ba bannières oyo ebongi na ba clients na bino.",
+    "labelsTitle": "Ba Étiquettes & Emballage",
+    "labelsDesc": "Ba étiquettes mpe bilamba ya biloko oyo emonanaka polele na ba magazini."
+  },
+  "pillars": {
+    "localTitle": "Kondimama na Zando",
+    "localDesc": "Bilili oyo ebongi na zando na bino — masano, nkisi, magazini mpe mombongo.",
+    "deliveryTitle": "Kopesa Mosala na Bopesi",
+    "deliveryDesc": "Ba fichiers oyo ebongisami malamu mpe ya kobimisa na imprimerie.",
+    "controlTitle": "Koyeba Marque",
+    "controlDesc": "Mibeko ya langi, mikanda mpe logo mpo mosala nionso ezala sembo."
+  },
+  "ctaBand": {
+    "title": "Banda marque ya sika to bongisa oyo ozali na yango",
+    "lead": "Branding elongo na biso elakisi logo, kopona langi, ba affiches mpe biloko nionso oyo esalaka compagnie ya solo.",
+    "btn": "Banda Sikoyo"
+  },
+  "simplify": {
+    "title": "Nzelá ya pete ya kosala elongo na studio na biso",
+    "lead": "Mayele polele, banzela oyo ebongisami mpe ba fichiers ya koumela.",
+    "step1Title": "Brief",
+    "step1Desc": "Yebisa biso eloko nini, bato nini mpe ntango nini esengeli kosila.",
+    "step2Title": "Diseni",
+    "step2Desc": "Kokanisa logo, langi mpe lolenge ya kotia biloko tii ekondimama.",
+    "step3Title": "Kosalela",
+    "step3Desc": "Kotia yango na ba affiches, ba flyers, ba étiquettes mpe na ba réseaux.",
+    "step4Title": "Kopesa",
+    "step4Desc": "Ba fichiers ya kobimisa na imprimerie mpe ya internet na ndakisa ya kosalela."
+  },
+  "clients": {
+    "title": "Epesami motema na ba équipes oyo etekaka mikolo nionso",
+    "lead": "Kobanda na ba compagnies ya bokono tii na masano mpe mombongo ya mikili mingi.",
+    "tagWellness": "Kolongono",
+    "tagTrade": "Mombongo",
+    "tagPets": "Banyama",
+    "tagToys": "Masano",
+    "tagRetail": "Magazini",
+    "tagFood": "Bilei",
+    "kelyDesc": "Branding mpe imprimerie mpo na nkisi mpe kolongono.",
+    "kottakkalDesc": "Misala ya bilili mpo na kombo ya lokumu na lisano ya nkisi.",
+    "welltechDesc": "Bilili ya mombongo mpo na équipe ya mokili mobimba.",
+    "petsOriginDesc": "Emballage mpe publicité mpo na bilei ya banyama.",
+    "oggyToyDesc": "Bilili ya bopesi mpe esengo mpo na masano ya bana.",
+    "newDelmonDesc": "Design mpo na magazini mpe biloko ya sika ya koteka.",
+    "alJazeeraDesc": "Biembo, ba étiquettes mpe biloko ya mombongo mpo na bapanzi biloko ya kolia."
+  },
+  "news": {
+    "tagStudio": "Studio",
+    "studioTitle": "Branding mobimba, kaka te fichier ya logo",
+    "studioDesc": "Logo, langi, ba affiches mpe système mobimba mpo na kotia makambo malamu.",
+    "studioLink": "Banda projet ya marque",
+    "tagPrintDigital": "Imprimerie & Numérique",
+    "campaignTitle": "Kobanda na affiche moko tii na campagne mobimba",
+    "campaignDesc": "Ba brochures, ba flyers, ba étiquettes mpe bilili oyo ezali na lolenge moko.",
+    "campaignLink": "Loba mpo na campagne"
+  },
+  "contact": {
+    "eyebrow": "Kutana na biso",
+    "title": "Yebisa biso eloko nini olingi tosalela yo",
+    "lead": "Brochure, affiche, flyer, elili ya numérique, étiquette, logo to branding mobimba. Tinda mokanda mpe tokoyanola mbala moko.",
+    "point1": "Ba fichiers ya kobimisa na imprimerie mpe internet",
+    "point2": "Système ya logo mpe kopona langi",
+    "point3": "Ba affiches, flyers, étiquettes mpe campagnes",
+    "nameLabel": "Kombo",
+    "emailLabel": "Email",
+    "needLabel": "Ozali na posa ya nini?",
+    "selectPlaceholder": "Pona mosala",
+    "optBrochure": "Brochure",
+    "optPoster": "Affiche",
+    "optFlyer": "Flyer",
+    "optDigital": "Bilili ya Numérique",
+    "optLabels": "Ba Étiquettes & Emballage",
+    "optLogo": "Logo",
+    "optBranding": "Branding mobimba (logo, langi, affiches)",
+    "optOther": "Eloko mosusu",
+    "messageLabel": "Mokanda",
+    "messagePlaceholder": "Yebisa biso mpo na marque na yo, mosala oyo olingi mpe ntango.",
+    "btnSubmit": "Tinda Mokanda",
+    "statusRequired": "Tondisa bisika nionso.",
+    "statusSuccess": "Email na yo ezali kofungwama mpo na kotinda mokanda."
+  },
+  "footer": {
+    "tagline": "Design graphique mpo na imprimerie, numérique mpe marque.",
+    "allRights": "Mibeko nionso ebatelami."
+  }
+}

@@ -1,0 +1,124 @@
+{
+  "nav": {
+    "services": "Servizi",
+    "whatWeMake": "Cosa Facciamo",
+    "clients": "Clienti",
+    "branding": "Branding",
+    "contact": "Contatti",
+    "talkToUs": "Parla con noi",
+    "getStarted": "Inizia Ora"
+  },
+  "hero": {
+    "eyebrow": "Design efficace al 100%",
+    "title": "Design su misura per aziende che vogliono apparire forti quanto lo sono.",
+    "lead": "Uno studio di grafica che crea stampati di prestigio, packaging e identità digitali ad alto impatto.",
+    "getStarted": "Inizia Ora",
+    "seeClients": "Vedi i clienti"
+  },
+  "clientsStrip": {
+    "andMore": "& altro"
+  },
+  "intro": {
+    "title": "Creato per brand che devono distinguersi",
+    "lead": "Lavoriamo con aziende in crescita nel benessere, retail, giocattoli e commercio internazionale. Manteniamo il lavoro chiaro, coerente e pronto per la produzione.",
+    "printTitle": "Stampa di Impatto",
+    "printDesc": "Brochure, poster, volantini ed etichette pronti per la stampa — layout puliti e file adatti alla tua tipografia.",
+    "digitalTitle": "Grafica Digitale",
+    "digitalDesc": "Immagini per social network, banner e creatività web nitide su ogni schermo.",
+    "identityTitle": "Identità Duratura",
+    "identityDesc": "Sistemi di loghi, palette colori e font affinché ogni elemento trasmetta la medesima autorevolezza."
+  },
+  "services": {
+    "title": "Un unico studio per stampa, digitale e branding",
+    "lead": "Un solo brief, un solo team e un linguaggio visivo chiaro — dal primo bozzetto ai file definitivi.",
+    "brochuresTitle": "Brochure e Cataloghi",
+    "brochuresDesc": "Cataloghi prodotto e profili aziendali che illustrano la tua offerta con eleganza e ordine.",
+    "postersTitle": "Poster e Volantini",
+    "postersDesc": "Materiali promozionali per eventi e campagne pensati per catturare l'attenzione del pubblico.",
+    "digitalTitle": "Immagini Digitali",
+    "digitalDesc": "Post social e grafiche web ottimizzate per i canali utilizzati dai tuoi clienti.",
+    "labelsTitle": "Etichette e Packaging",
+    "labelsDesc": "Etichette e packaging leggibili a scaffale e pronti per la produzione industriale."
+  },
+  "pillars": {
+    "localTitle": "Presidio di Mercato",
+    "localDesc": "Design visivo allineato alle aspettative del tuo settore.",
+    "deliveryTitle": "Consegna Puntuale",
+    "deliveryDesc": "File master ben strutturati ed esportazioni conformi per la stampa.",
+    "controlTitle": "Controllo del Brand",
+    "controlDesc": "Linee guida chiare per colori, font e loghi per una coerenza visiva duratura."
+  },
+  "ctaBand": {
+    "title": "Lancia un nuovo brand o perfeziona quello esistente",
+    "lead": "Il nostro servizio di branding include logo, selezione cromatica, poster e tutti gli elementi coordinati.",
+    "btn": "Inizia Ora"
+  },
+  "simplify": {
+    "title": "Un metodo di lavoro chiaro e trasparente",
+    "lead": "Brief puntuali, passaggi definiti e file utilizzabili a lungo termine.",
+    "step1Title": "Brief",
+    "step1Desc": "Condividi obiettivi, target e scadenze. Definiamo la rotta creativa.",
+    "step2Title": "Design",
+    "step2Desc": "Concetti per logo, colori e layout fino all'approvazione finale.",
+    "step3Title": "Applicazione",
+    "step3Desc": "Applichiamo l'identità a poster, volantini, etichette e canali digitali.",
+    "step4Title": "Consegna",
+    "step4Desc": "File pronti per stampa e web con istruzioni d'uso dettagliate."
+  },
+  "clients": {
+    "title": "La fiducia di brand che vendono ogni giorno",
+    "lead": "Dalle eccellenze del benessere naturale ai giocattoli e al commercio internazionale.",
+    "tagWellness": "Benessere",
+    "tagTrade": "Commercio",
+    "tagPets": "Animali",
+    "tagToys": "Giocattoli",
+    "tagRetail": "Retail",
+    "tagFood": "Alimentare",
+    "kelyDesc": "Brand identity e stampati per una linea cosmetica e curativa ayurvedica.",
+    "kottakkalDesc": "Progetto visivo per un marchio storico della medicina tradizionale.",
+    "welltechDesc": "Grafica istituzionale e di prodotto per un'azienda globale.",
+    "petsOriginDesc": "Packaging e campagne per un marchio di alimenti biologici per animali.",
+    "oggyToyDesc": "Grafiche vivaci e divertenti per un brand di giocattoli.",
+    "newDelmonDesc": "Design commerciale per negozi e nuova gamma di prodotti.",
+    "alJazeeraDesc": "Packaging, etichette e asset commerciali per un'azienda di distribuzione alimentare."
+  },
+  "news": {
+    "tagStudio": "Studio",
+    "studioTitle": "Un branding completo, non solo un file logo",
+    "studioDesc": "Logo, colori, poster e linee guida per una comunicazione aziendale armoniosa.",
+    "studioLink": "Avvia un progetto",
+    "tagPrintDigital": "Stampa & Digitale",
+    "campaignTitle": "Dal singolo poster a una campagna completa",
+    "campaignDesc": "Brochure, volantini, etichette e immagini digitali uniti da un unico stile distintivo.",
+    "campaignLink": "Richiedi campagna"
+  },
+  "contact": {
+    "eyebrow": "Contatti",
+    "title": "Raccontaci il tuo progetto di design",
+    "lead": "Brochure, poster, volantino, grafica digitale, etichetta, logo o branding completo. Inviaci un messaggio e ti risponderemo a breve.",
+    "point1": "File pronti per stampa e web",
+    "point2": "Sistemi coordinati di logo e colori",
+    "point3": "Poster, volantini, etichette e campagne",
+    "nameLabel": "Nome",
+    "emailLabel": "Email",
+    "needLabel": "Di cosa hai bisogno?",
+    "selectPlaceholder": "Seleziona un servizio",
+    "optBrochure": "Brochure / Catalogo",
+    "optPoster": "Poster",
+    "optFlyer": "Volantino / Flyer",
+    "optDigital": "Immagini Digitali",
+    "optLabels": "Etichette e Packaging",
+    "optLogo": "Logo",
+    "optBranding": "Branding completo (logo, colori, poster)",
+    "optOther": "Altro",
+    "messageLabel": "Messaggio",
+    "messagePlaceholder": "Raccontaci del tuo brand, dei supporti richiesti e delle tempistiche.",
+    "btnSubmit": "Invia Messaggio",
+    "statusRequired": "Si prega di compilare tutti i campi obbligatori.",
+    "statusSuccess": "Apertura dell'applicazione email in corso per l'invio del messaggio."
+  },
+  "footer": {
+    "tagline": "Graphic design per stampa, digitale e brand.",
+    "allRights": "Tutti i diritti riservati."
+  }
+}

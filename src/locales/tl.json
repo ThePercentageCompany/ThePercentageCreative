@@ -1,0 +1,124 @@
+{
+  "nav": {
+    "services": "Mga Serbisyo",
+    "whatWeMake": "Ang Aming Ginagawa",
+    "clients": "Mga Kliyente",
+    "branding": "Branding",
+    "contact": "Makipag-ugnayan",
+    "talkToUs": "Kausapin Kami",
+    "getStarted": "Magsimula Na"
+  },
+  "hero": {
+    "eyebrow": "Disenyong 100% epektibo",
+    "title": "Disenyong nilikha para sa mga negosyong nais magpakita ng buong husay at lakas.",
+    "lead": "Isang graphic design studio na gumagawa ng de-kalidad na print, packaging, at digital brand systems.",
+    "getStarted": "Magsimula Na",
+    "seeClients": "Tingnan ang Kliyente"
+  },
+  "clientsStrip": {
+    "andMore": "& marami pa"
+  },
+  "intro": {
+    "title": "Ginawa para sa mga brand na kailangang mapansin",
+    "lead": "Nagtatrabaho kami kasama ang mga lumalaking kumpanya sa wellness, retail, laruan, at kalakalan. Poster man ng kampanya o buong visual identity, sinisigurado naming malinis, pare-pareho, at handa na sa produksyon.",
+    "printTitle": "Print na Tumitatak",
+    "printDesc": "Mga brochure, poster, flyer, at label na handa sa pag-print — malinis ang layout, tamang sukat, at magagamit agad ng iyong printer.",
+    "digitalTitle": "Digital na Naglalakbay",
+    "digitalDesc": "Mga social media image, ads, at web graphics na nananatiling malinaw sa bawat screen.",
+    "identityTitle": "Pagkakakilanlang Tumatagal",
+    "identityDesc": "Sistema ng logo, kulay, at disenyo para ang bawat poster at packaging ay magkakatugma."
+  },
+  "services": {
+    "title": "Isang studio para sa print, digital, at branding",
+    "lead": "Isang brief, isang team, at isang visual language — mula sa unang sketch hanggang sa mga file na handa nang i-print o i-post online.",
+    "brochuresTitle": "Mga Brochure",
+    "brochuresDesc": "Mga product catalogue at company profile na nagpapaliwanag ng iyong negosyo nang hindi masikip tingnan.",
+    "postersTitle": "Mga Poster at Flyer",
+    "postersDesc": "Mga disenyong pang-event, retail, at promotional campaign na nakakakuha agad ng atensyon.",
+    "digitalTitle": "Digital na Imahe",
+    "digitalDesc": "Mga social post, banner, at visuals na sukat para sa mga platform na ginagamit ng iyong mga customer.",
+    "labelsTitle": "Mga Label at Packaging",
+    "labelsDesc": "Mga label ng produkto at disenyo ng packaging na malinaw sa istante at handa sa paggawa."
+  },
+  "pillars": {
+    "localTitle": "Pagtanggap sa Merkado",
+    "localDesc": "Mga visual na akma sa iyong industriya — kabilang ang Ayurvedic, retail, laruan, at kalakalan.",
+    "deliveryTitle": "Maaasahang Paghahatid",
+    "deliveryDesc": "Maayos na mga master file, print-ready exports, at maayos na proseso ng rebisyon.",
+    "controlTitle": "Kontrol sa Brand",
+    "controlDesc": "Mga alituntunin sa kulay, font, at logo para ang bawat bagong poster ay tapat sa iyong tatak."
+  },
+  "ctaBand": {
+    "title": "Magsimula ng bagong brand o palakasin ang mayroon ka na",
+    "lead": "Ang branding kasama namin ay may logo, pagpili ng kulay, posters, at lahat ng kailangang materyales.",
+    "btn": "Magsimula Na"
+  },
+  "simplify": {
+    "title": "Simpleng paraan ng pakikipagtulungan sa aming studio",
+    "lead": "Malinaw na brief, organisadong hakbang, at mga de-kalidad na file na magagamit mo nang matagal.",
+    "step1Title": "Brief",
+    "step1Desc": "Sabihin ang kailangan, target audience, at deadline. Inaayos namin ang direksyon bago mag-disenyo.",
+    "step2Title": "Disenyo",
+    "step2Desc": "Mga konsepto para sa logo, kulay, layout, at typography hanggang sa maabot ang perpektong gawa.",
+    "step3Title": "Paglalapat",
+    "step3Desc": "Inilalapat namin ang sistema sa mga poster, flyer, label, at digital channels.",
+    "step4Title": "Paghahatid",
+    "step4Desc": "Mga print-ready at web-ready file na may kasamang gabay sa paggamit."
+  },
+  "clients": {
+    "title": "Pinagkakatiwalaan ng mga negosyong nagbebenta araw-araw",
+    "lead": "Mula sa mga kumpanya ng tradisyonal na gamot hanggang sa mga laruan at pandaigdigang kalakalan.",
+    "tagWellness": "Kalusugan",
+    "tagTrade": "Kalakalan",
+    "tagPets": "Alagang Hayop",
+    "tagToys": "Laruan",
+    "tagRetail": "Tindahan",
+    "tagFood": "Pagkain",
+    "kelyDesc": "Disenyo ng brand at print para sa linyang pang-wellness ng Ayurvedic.",
+    "kottakkalDesc": "Visual design para sa kilalang pangalan sa tradisyonal na panggagamot.",
+    "welltechDesc": "Corporate at product graphics para sa pandaigdigang kumpanya.",
+    "petsOriginDesc": "Packaging at campaign designs para sa tatak ng pagkain ng alagang hayop.",
+    "oggyToyDesc": "Masaya at masiglang graphics para sa brand ng mga laruan.",
+    "newDelmonDesc": "Retail-ready na disenyo para sa mga tindahan at hanay ng produkto.",
+    "alJazeeraDesc": "Packaging, mga label, at commercial assets para sa kumpanya ng distribusyon ng pagkain."
+  },
+  "news": {
+    "tagStudio": "Studio",
+    "studioTitle": "Buong branding, hindi lang basta logo file",
+    "studioDesc": "Logo, pagpili ng kulay, posters, at buong sistema upang maging maayos ang bawat materyal.",
+    "studioLink": "Simulan ang Proyekto",
+    "tagPrintDigital": "Print at Digital",
+    "campaignTitle": "Mula sa isang poster hanggang sa buong kampanya",
+    "campaignDesc": "Mga brochure, flyer, label, at digital image na may iisang malinis at magandang visual style.",
+    "campaignLink": "Mag-brief ng Kampanya"
+  },
+  "contact": {
+    "eyebrow": "Makipag-ugnayan",
+    "title": "Sabihin sa amin kung ano ang kailangan mong idisenyo",
+    "lead": "Brochure, poster, flyer, digital image, label, logo, o buong branding. Magpadala ng maikling mensahe at tutugon kami agad.",
+    "point1": "Mga print-ready at web-ready files",
+    "point2": "Kumpletong logo at color palette systems",
+    "point3": "Posters, flyers, labels, at promotional campaigns",
+    "nameLabel": "Pangalan",
+    "emailLabel": "Email",
+    "needLabel": "Ano ang iyong kailangan?",
+    "selectPlaceholder": "Pumili ng serbisyo",
+    "optBrochure": "Brochure",
+    "optPoster": "Poster",
+    "optFlyer": "Flyer",
+    "optDigital": "Digital Images",
+    "optLabels": "Mga Label at Packaging",
+    "optLogo": "Logo",
+    "optBranding": "Buong Branding (logo, kulay, posters)",
+    "optOther": "Iba pa",
+    "messageLabel": "Mensahe",
+    "messagePlaceholder": "Ikwento ang tungkol sa iyong brand, ang gawaing kailangan, at ang deadline.",
+    "btnSubmit": "Ipadala ang Mensahe",
+    "statusRequired": "Pakiusap, punan ang lahat ng patlang.",
+    "statusSuccess": "Binubuksan ang iyong email app upang ipadala ang mensahe."
+  },
+  "footer": {
+    "tagline": "Graphic design para sa print, digital, at brand.",
+    "allRights": "Lahat ng karapatan ay nakalaan."
+  }
+}

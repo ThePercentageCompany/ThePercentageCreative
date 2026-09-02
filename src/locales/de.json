@@ -1,0 +1,124 @@
+{
+  "nav": {
+    "services": "Leistungen",
+    "whatWeMake": "Portfolio",
+    "clients": "Kunden",
+    "branding": "Branding",
+    "contact": "Kontakt",
+    "talkToUs": "Kontaktieren",
+    "getStarted": "Projekt starten"
+  },
+  "hero": {
+    "eyebrow": "Design, das zu 100 % überzeugt",
+    "title": "Exzellentes Design für Unternehmen, die so stark wirken wollen, wie sie sind.",
+    "lead": "Ein Grafikdesign-Studio für wirkungsvolle Printmedien, Verpackungen und digitale Markensysteme.",
+    "getStarted": "Projekt starten",
+    "seeClients": "Kunden ansehen"
+  },
+  "clientsStrip": {
+    "andMore": "& mehr"
+  },
+  "intro": {
+    "title": "Geschaffen für Marken, die wahrgenommen werden müssen",
+    "lead": "Wir arbeiten mit wachsenden Unternehmen aus Wellness, Handel, Spielzeug und Industrie. Ob Werbeplakat oder ganzheitliches Corporate Design – wir schaffen klare, einheitliche und produktionsfertige Ergebnisse.",
+    "printTitle": "Print, der überzeugt",
+    "printDesc": "Broschüren, Plakate, Flyer und Etiketten druckfertig aufbereitet — saubere Layouts, exakte Maße und professionelle Druckdaten.",
+    "digitalTitle": "Digitale Reichweite",
+    "digitalDesc": "Social-Media-Grafiken, Werbebanner und Web-Visuals, die auf jedem Display gestochen scharf wirken.",
+    "identityTitle": "Nachhaltige Markenidentität",
+    "identityDesc": "Logo-, Farb- und Schriftsysteme für einen unverwechselbaren und einheitlichen Gesamtauftritt."
+  },
+  "services": {
+    "title": "Ein Studio für Print, Digital und Markenidentität",
+    "lead": "Ein Briefing, ein Team und eine klare visuelle Sprache — vom ersten Konzept bis zur fertigen Druckdatei.",
+    "brochuresTitle": "Broschüren",
+    "brochuresDesc": "Produktkataloge, Unternehmensprofile und Faltblätter, die Inhalte übersichtlich präsentieren.",
+    "postersTitle": "Plakate & Flyer",
+    "postersDesc": "Plakate für Events, Messen und Kampagnen, die im Raum und auf Bildschirmen ins Auge fallen.",
+    "digitalTitle": "Digitale Grafiken",
+    "digitalDesc": "Social-Media-Posts, Web-Banner und Werbegrafiken, maßgeschneidert für Ihre Zielgruppen.",
+    "labelsTitle": "Etiketten & Verpackung",
+    "labelsDesc": "Produktetiketten und Verpackungsdesigns, die im Verkaufsregal herausstechen und normgerecht gedruckt werden."
+  },
+  "pillars": {
+    "localTitle": "Marktgerechte Ästhetik",
+    "localDesc": "Designs mit hoher Akzeptanz für Ayurveda-, Handels-, Spielzeug- und B2B-Marken.",
+    "deliveryTitle": "Zuverlässige Umsetzung",
+    "deliveryDesc": "Strukturierte Master-Dateien, druckfertige Exporte und transparente Abstimmungsrunden.",
+    "controlTitle": "Markenkonsistenz",
+    "controlDesc": "Feste Richtlinien für Farbe, Typografie und Logo sichern die Wiedererkennbarkeit Ihres Unternehmens."
+  },
+  "ctaBand": {
+    "title": "Bauen Sie eine neue Marke auf oder schärfen Sie Ihr bestehendes Profil",
+    "lead": "Branding umfasst bei uns Logo, Farbdefinition, Plakatgestaltung und alle Bausteine für ein professionelles Erscheinungsbild.",
+    "btn": "Projekt starten"
+  },
+  "simplify": {
+    "title": "Einfache und transparente Zusammenarbeit",
+    "lead": "Präzise Briefings, strukturierte Meilensteine und hochwertige Arbeitsdateien.",
+    "step1Title": "Briefing",
+    "step1Desc": "Sie nennen uns Anforderungen, Zielgruppe und Zeitplan. Wir entwickeln die kreative Ausrichtung.",
+    "step2Title": "Design",
+    "step2Desc": "Konzepte für Logo, Farbe, Layout und Typografie – abgestimmt bis zur finalen Freigabe.",
+    "step3Title": "Anwendung",
+    "step3Desc": "Wir übertragen das Design auf Plakate, Flyer, Etiketten und digitale Medien.",
+    "step4Title": "Übergabe",
+    "step4Desc": "Vollständige druck- und webfertige Dateien inklusive verständlicher Anwendungsrichtlinien."
+  },
+  "clients": {
+    "title": "Das Vertrauen erfolgreicher Unternehmen",
+    "lead": "Von traditionsreichen Ayurveda-Herstellern bis zu Spielwarenmarken und globalen Handelsunternehmen.",
+    "tagWellness": "Wellness & Gesundheit",
+    "tagTrade": "Handel & Industrie",
+    "tagPets": "Heimtierbedarf",
+    "tagToys": "Spielwaren",
+    "tagRetail": "Einzelhandel",
+    "tagFood": "Lebensmittel",
+    "kelyDesc": "Markenaufbau und Drucksorten für eine hochwertige ayurvedische Pflegelinie.",
+    "kottakkalDesc": "Visuelle Gestaltung für einen traditionsreichen Namen der Naturheilkunde.",
+    "welltechDesc": "Corporate- und Produktgrafiken für ein international agierendes Technologieunternehmen.",
+    "petsOriginDesc": "Verpackungsgestaltung und Kampagnen für eine Bio-Heimtierenährungslinie.",
+    "oggyToyDesc": "Lebendige und spielerische Designs für eine moderne Spielzeugmarke.",
+    "newDelmonDesc": "Verkaufsfertiges Design für Filialauftritte und neue Warensortimente.",
+    "alJazeeraDesc": "Verpackungen, Etiketten und Markenmaterialien für den Lebensmittelhandel."
+  },
+  "news": {
+    "tagStudio": "Studio",
+    "studioTitle": "Ganzheitliches Branding statt nur einer Logodatei",
+    "studioDesc": "Logo, Farbsystem, Plakate und Richtlinien für einen stimmigen und zukunftssicheren Markenauftritt.",
+    "studioLink": "Markenprojekt starten",
+    "tagPrintDigital": "Print & Digital",
+    "campaignTitle": "Vom Einzelplakat zur Gesamtkampagne",
+    "campaignDesc": "Broschüren, Flyer, Etiketten und Digitalgrafiken in harmonischer visueller Einheit.",
+    "campaignLink": "Kampagne anfragen"
+  },
+  "contact": {
+    "eyebrow": "Kontakt",
+    "title": "Erzählen Sie uns von Ihrem Designprojekt",
+    "lead": "Broschüre, Plakat, Flyer, Digitalgrafik, Etikett, Logo oder ganzheitliches Branding. Senden Sie uns eine Nachricht – wir melden uns umgehend.",
+    "point1": "Druckfertige und weboptimierte Dateien",
+    "point2": "Logo- und Farbsysteme nach Industriestandard",
+    "point3": "Plakate, Flyer, Etiketten und Gesamtkampagnen",
+    "nameLabel": "Name",
+    "emailLabel": "E-Mail",
+    "needLabel": "Welche Leistung benötigen Sie?",
+    "selectPlaceholder": "Leistung auswählen",
+    "optBrochure": "Broschüre",
+    "optPoster": "Plakat",
+    "optFlyer": "Flyer",
+    "optDigital": "Digitale Grafiken",
+    "optLabels": "Etiketten & Verpackung",
+    "optLogo": "Logo",
+    "optBranding": "Branding (Logo, Farbe, Plakate)",
+    "optOther": "Sonstiges",
+    "messageLabel": "Nachricht",
+    "messagePlaceholder": "Beschreiben Sie Marke, gewünschte Medien und Ihren Zeitplan.",
+    "btnSubmit": "Nachricht senden",
+    "statusRequired": "Bitte füllen Sie alle Pflichtfelder aus.",
+    "statusSuccess": "Ihr E-Mail-Programm wird geöffnet, um die Nachricht zu übermitteln."
+  },
+  "footer": {
+    "tagline": "Grafikdesign für Print, Digital und Markenidentität.",
+    "allRights": "Alle Rechte vorbehalten."
+  }
+}

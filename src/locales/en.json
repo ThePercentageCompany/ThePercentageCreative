@@ -1,0 +1,124 @@
+{
+  "nav": {
+    "services": "Services",
+    "whatWeMake": "What we make",
+    "clients": "Clients",
+    "branding": "Branding",
+    "contact": "Contact",
+    "talkToUs": "Talk to us",
+    "getStarted": "Get Started"
+  },
+  "hero": {
+    "eyebrow": "Design that works at 100%",
+    "title": "Design crafted for businesses that want to look as strong as they are.",
+    "lead": "A graphic design studio creating high-impact print, packaging, and digital brand systems.",
+    "getStarted": "Get Started",
+    "seeClients": "See our clients"
+  },
+  "clientsStrip": {
+    "andMore": "& more"
+  },
+  "intro": {
+    "title": "Built for brands that need to be seen",
+    "lead": "We work with growing companies across wellness, retail, toys, and trade. Whether you need a campaign poster or a full visual identity, we keep the work clear, consistent, and ready to use.",
+    "printTitle": "Print that lands",
+    "printDesc": "Brochures, posters, flyers, and labels prepared for print — clean layouts, correct sizes, and files your printer can actually use.",
+    "digitalTitle": "Digital that travels",
+    "digitalDesc": "Social images, ads, and web-ready artwork that stay sharp on every screen and stay on-brand across channels.",
+    "identityTitle": "Identity that lasts",
+    "identityDesc": "Logo, colour, and brand systems so every poster, pack, and profile looks like it belongs to the same company."
+  },
+  "services": {
+    "title": "One studio for print, digital, and branding",
+    "lead": "One brief, one team, and one visual language — from first sketch to files you can send to print or post online.",
+    "brochuresTitle": "Brochures",
+    "brochuresDesc": "Product catalogues, company profiles, and fold-outs that explain what you do without looking crowded.",
+    "postersTitle": "Posters & flyers",
+    "postersDesc": "Event, retail, and campaign pieces designed to stop people in the aisle, the feed, or the street.",
+    "digitalTitle": "Digital images",
+    "digitalDesc": "Social posts, banners, and web visuals sized and styled for the platforms your customers already use.",
+    "labelsTitle": "Labels & packaging",
+    "labelsDesc": "Product labels and pack graphics that read clearly on the shelf and hold up in production."
+  },
+  "pillars": {
+    "localTitle": "Local acceptance",
+    "localDesc": "Visuals that feel right for your market — Ayurvedic, retail, toys, and trade brands included.",
+    "deliveryTitle": "Reliable delivery",
+    "deliveryDesc": "Structured files, print-ready exports, and revisions that stay organised as the work grows.",
+    "controlTitle": "Brand control",
+    "controlDesc": "Colour, type, and logo rules so every new poster still looks like you."
+  },
+  "ctaBand": {
+    "title": "Start a brand, or tighten the one you have",
+    "lead": "Branding with us means logo, colour selection, posters, and the supporting pieces that make a company look finished — not pieced together.",
+    "btn": "Get Started"
+  },
+  "simplify": {
+    "title": "A simple way to work with a design studio",
+    "lead": "Clear briefs, structured rounds, and files you can keep using long after the first campaign.",
+    "step1Title": "Brief",
+    "step1Desc": "Tell us the piece, the audience, and the deadline. We shape the direction before we draw.",
+    "step2Title": "Design",
+    "step2Desc": "Concepts for logo, colour, layout, and type — then we refine until it is ready to ship.",
+    "step3Title": "Apply",
+    "step3Desc": "We extend the system across posters, flyers, labels, and digital so nothing feels like an afterthought.",
+    "step4Title": "Deliver",
+    "step4Desc": "Print-ready and web-ready files, with notes so your team can keep using the brand."
+  },
+  "clients": {
+    "title": "Trusted by teams that sell every day",
+    "lead": "From Ayurvedic houses to toys and international trade — we design work their customers actually see.",
+    "tagWellness": "Wellness",
+    "tagTrade": "Trade",
+    "tagPets": "Pets",
+    "tagToys": "Toys",
+    "tagRetail": "Retail",
+    "tagFood": "Food",
+    "kelyDesc": "Brand and print support for an Ayurvedic product line.",
+    "kottakkalDesc": "Visual work for a heritage Ayurvedic name in market.",
+    "welltechDesc": "Corporate and product graphics for a global-facing team.",
+    "petsOriginDesc": "Packaging and campaign pieces for a pet brand.",
+    "oggyToyDesc": "Playful, high-energy graphics for a toy brand.",
+    "newDelmonDesc": "Retail-ready design for a storefront and product range.",
+    "alJazeeraDesc": "Packaging, labels, and commercial brand assets for a premium food distribution company."
+  },
+  "news": {
+    "tagStudio": "Studio",
+    "studioTitle": "Full branding, not just a logo file",
+    "studioDesc": "Logo, colour selection, posters, and the rest of the system — so your next flyer already has a home.",
+    "studioLink": "Start a brand project",
+    "tagPrintDigital": "Print & digital",
+    "campaignTitle": "From one poster to a full campaign",
+    "campaignDesc": "Brochures, flyers, labels, and digital images that share one look — useful when you need to move quickly without looking messy.",
+    "campaignLink": "Brief a campaign"
+  },
+  "contact": {
+    "eyebrow": "Contact us",
+    "title": "Tell us what you need designed",
+    "lead": "Brochure, poster, flyer, digital image, label, logo, or a full branding programme. Send a short note and we will come back with next steps.",
+    "point1": "Print-ready and web-ready files",
+    "point2": "Logo and colour systems",
+    "point3": "Posters, flyers, labels, and campaigns",
+    "nameLabel": "Name",
+    "emailLabel": "Email",
+    "needLabel": "What do you need?",
+    "selectPlaceholder": "Select a service",
+    "optBrochure": "Brochure",
+    "optPoster": "Poster",
+    "optFlyer": "Flyer",
+    "optDigital": "Digital images",
+    "optLabels": "Labels",
+    "optLogo": "Logo",
+    "optBranding": "Branding (logo, colour, posters)",
+    "optOther": "Something else",
+    "messageLabel": "Message",
+    "messagePlaceholder": "Tell us about the brand, the piece, and the deadline.",
+    "btnSubmit": "Send message",
+    "statusRequired": "Please fill in every field.",
+    "statusSuccess": "Opening your email app to send the message."
+  },
+  "footer": {
+    "tagline": "Graphic design for print, digital, and brand.",
+    "allRights": "All rights reserved."
+  }
+}

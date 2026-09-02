@@ -1,0 +1,124 @@
+{
+  "nav": {
+    "services": "Dienste",
+    "whatWeMake": "Wat ons maak",
+    "clients": "Kliënte",
+    "branding": "Handelsmerk",
+    "contact": "Kontak",
+    "talkToUs": "Praat met ons",
+    "getStarted": "Begin Nou"
+  },
+  "hero": {
+    "eyebrow": "Ontwerp wat 100% werk",
+    "title": "Ontwerp vir besighede wat so sterk wil lyk soos hulle is.",
+    "lead": "'n Grafiese ontwerpateljee wat hoë-impak drukwerk, verpakking en digitale handelsmerke skep.",
+    "getStarted": "Begin Nou",
+    "seeClients": "Sien ons kliënte"
+  },
+  "clientsStrip": {
+    "andMore": "& meer"
+  },
+  "intro": {
+    "title": "Gebou vir handelsmerke wat gesien moet word",
+    "lead": "Ons werk met groeiende maatskappye in welstand, kleinhandel, speelgoed en handel. Ons hou die werk duidelik, konsekwent en gereed vir produksie.",
+    "printTitle": "Drukwerk wat tref",
+    "printDesc": "Brosjures, plakkate, pamflette en etikette gereed vir drukwerk — skoon uitlegte en korrekte groottes.",
+    "digitalTitle": "Digitale reikwydte",
+    "digitalDesc": "Sosiale media-beelde en webgrafika wat skerp bly op elke skerm.",
+    "identityTitle": "Identiteit wat hou",
+    "identityDesc": "Logo, kleur en handelsmerkstelsels vir 'n eenvormige voorkoms."
+  },
+  "services": {
+    "title": "Een ateljee vir druk, digitaal en handelsmerke",
+    "lead": "Een opdrag, een span en een visuele taal — van eerste skets tot drukgereed lêers.",
+    "brochuresTitle": "Brosjures",
+    "brochuresDesc": "Produkkatalogusse en maatskappyprofiele wat duidelik kommunikeer.",
+    "postersTitle": "Plakkate & pamflette",
+    "postersDesc": "Ontwerp vir geleenthede en veldtogte om dadelik aandag te trek.",
+    "digitalTitle": "Digitale beelde",
+    "digitalDesc": "Sosiale plasings en baniere aangepas vir u platforms.",
+    "labelsTitle": "Etikette & verpakking",
+    "labelsDesc": "Produketikette en verpakking wat uitstaan op die winkelrak."
+  },
+  "pillars": {
+    "localTitle": "Plaaslike aanvaarding",
+    "localDesc": "Visuele ontwerpe wat pas by u mark.",
+    "deliveryTitle": "Betroubare lewering",
+    "deliveryDesc": "Gestruktureerde lêers en gereed vir produksie.",
+    "controlTitle": "Handelsmerkbeheer",
+    "controlDesc": "Kleur-, skrif- en logoreëls vir blywende konsekwentheid."
+  },
+  "ctaBand": {
+    "title": "Begin 'n handelsmerk of versterk die een wat u het",
+    "lead": "Handelsmerkontwerp met ons sluit logo, kleurkeuse, plakkate en alle ondersteunende elemente in.",
+    "btn": "Begin Nou"
+  },
+  "simplify": {
+    "title": "'n Eenvoudige manier om met 'n ontwerpateljee te werk",
+    "lead": "Duidelike opdragte, gestruktureerde fases en meesterlêers.",
+    "step1Title": "Opdrag",
+    "step1Desc": "Vertel ons van die stuk, gehoor en keerdatum.",
+    "step2Title": "Ontwerp",
+    "step2Desc": "Konsepte vir logo, kleur en uitleg tot dit gereed is.",
+    "step3Title": "Toepassing",
+    "step3Desc": "Ons brei die stelsel uit oor plakkate, etikette en digitaal.",
+    "step4Title": "Lewering",
+    "step4Desc": "Druk- en webgereed lêers met duidelike riglyne."
+  },
+  "clients": {
+    "title": "Vertrou deur spanne wat elke dag verkoop",
+    "lead": "Van tradisionele welstandshuise tot speelgoed en internasionale handel.",
+    "tagWellness": "Welstand",
+    "tagTrade": "Handel",
+    "tagPets": "Troeteldiere",
+    "tagToys": "Speelgoed",
+    "tagRetail": "Kleinhandel",
+    "tagFood": "Voedsel",
+    "kelyDesc": "Handelsmerk- en drukwerk vir 'n Ayurvediese produkreeks.",
+    "kottakkalDesc": "Visuele werk vir 'n tradisionele medisyne-naam.",
+    "welltechDesc": "Korporatiewe grafika vir 'n globale span.",
+    "petsOriginDesc": "Verpakking en veldtogte vir 'n troeteldierhandelsmerk.",
+    "oggyToyDesc": "Speelse grafika vir 'n speelgoedhandelsmerk.",
+    "newDelmonDesc": "Kleinhandelontwerp vir winkel en produkte.",
+    "alJazeeraDesc": "Verpakking, etikette en kommersiële handelsmerk-items vir 'n voedselverspreidingshuis."
+  },
+  "news": {
+    "tagStudio": "Ateljee",
+    "studioTitle": "Volledige handelsmerk, nie net 'n logolêer nie",
+    "studioDesc": "Logo, kleurkeuse, plakkate en die res van die stelsel.",
+    "studioLink": "Begin 'n projek",
+    "tagPrintDigital": "Druk & digitaal",
+    "campaignTitle": "Van een plakkaat tot 'n volle veldtog",
+    "campaignDesc": "Brosjures, pamflette, etikette en beelde wat een skoon styl deel.",
+    "campaignLink": "Bespreek veldtog"
+  },
+  "contact": {
+    "eyebrow": "Kontak ons",
+    "title": "Vertel ons wat u ontwerp wil hê",
+    "lead": "Brosjure, plakkaat, pamflet, etiket, logo of 'n volledige handelsmerk. Stuur 'n boodskap en ons help u vinnig.",
+    "point1": "Drukgereed en webgereed lêers",
+    "point2": "Logo- en kleurstelsels",
+    "point3": "Plakkate, pamflette, etikette en veldtogte",
+    "nameLabel": "Naam",
+    "emailLabel": "E-pos",
+    "needLabel": "Wat het u nodig?",
+    "selectPlaceholder": "Kies 'n diens",
+    "optBrochure": "Brosjure",
+    "optPoster": "Plakkaat",
+    "optFlyer": "Pamflet",
+    "optDigital": "Digitale beelde",
+    "optLabels": "Etikette & verpakking",
+    "optLogo": "Logo",
+    "optBranding": "Handelsmerk (logo, kleur, plakkate)",
+    "optOther": "Iets anders",
+    "messageLabel": "Boodskap",
+    "messagePlaceholder": "Vertel ons van die handelsmerk, die stuk en die keerdatum.",
+    "btnSubmit": "Stuur boodskap",
+    "statusRequired": "Vul asseblief elke veld in.",
+    "statusSuccess": "U e-posprogram word oopgemaak om die boodskap te stuur."
+  },
+  "footer": {
+    "tagline": "Grafiese ontwerp vir druk, digitaal en handelsmerk.",
+    "allRights": "Alle regte voorbehou."
+  }
+}

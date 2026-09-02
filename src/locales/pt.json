@@ -1,0 +1,124 @@
+{
+  "nav": {
+    "services": "Serviços",
+    "whatWeMake": "O Que Fazemos",
+    "clients": "Clientes",
+    "branding": "Branding",
+    "contact": "Contacto",
+    "talkToUs": "Fale Connosco",
+    "getStarted": "Começar"
+  },
+  "hero": {
+    "eyebrow": "Design que funciona a 100%",
+    "title": "Design concebido para empresas que pretendem parecer tão sólidas quanto são.",
+    "lead": "Estúdio de design gráfico focado em suportes impressos, embalagens e sistemas de identidade de alto impacto.",
+    "getStarted": "Começar",
+    "seeClients": "Ver clientes"
+  },
+  "clientsStrip": {
+    "andMore": "& mais"
+  },
+  "intro": {
+    "title": "Criado para marcas que precisam de visibilidade",
+    "lead": "Trabalhamos com empresas em crescimento nos setores de bem-estar, retalho, brinquedos e comércio global. Mantemos o trabalho claro, consistente e pronto para produção.",
+    "printTitle": "Impressão com Impacto",
+    "printDesc": "Brochuras, cartazes, panfletos e rótulos preparados para impressão — ficheiros perfeitos para a sua gráfica.",
+    "digitalTitle": "Grafismo Digital",
+    "digitalDesc": "Imagens para redes sociais e criativos web que mantêm a nitidez em qualquer ecrã.",
+    "identityTitle": "Identidade Duradoura",
+    "identityDesc": "Sistemas de logótipo, cor e tipografia para que cada suporte reflita a força da sua empresa."
+  },
+  "services": {
+    "title": "Um estúdio único para impressão, digital e branding",
+    "lead": "Um único briefing, uma equipa dedicada e uma linguagem visual coesa do início ao fim.",
+    "brochuresTitle": "Brochuras e Catálogos",
+    "brochuresDesc": "Catálogos de produtos e perfis corporativos que comunicam com clareza e distinção.",
+    "postersTitle": "Cartazes e Panfletos",
+    "postersDesc": "Peças para eventos e campanhas promocionais concebidas para captar a atenção.",
+    "digitalTitle": "Imagens Digitais",
+    "digitalDesc": "Publicações para redes sociais e banners otimizados para as plataformas dos seus clientes.",
+    "labelsTitle": "Rótulos e Embalagens",
+    "labelsDesc": "Rótulos e embalagens de produtos legíveis nas prateleiras e prontos para produção industrial."
+  },
+  "pillars": {
+    "localTitle": "Adequação ao Mercado",
+    "localDesc": "Design adaptado ao seu setor de atividade.",
+    "deliveryTitle": "Entrega Confiável",
+    "deliveryDesc": "Ficheiros organizados e preparados para produção gráfica.",
+    "controlTitle": "Controlo de Marca",
+    "controlDesc": "Diretrizes de cor, tipografia e logótipo para total consistência."
+  },
+  "ctaBand": {
+    "title": "Lance uma nova marca ou fortaleça a existente",
+    "lead": "O nosso serviço de branding engloba logótipo, cores, cartazes e todos os elementos de suporte.",
+    "btn": "Começar"
+  },
+  "simplify": {
+    "title": "Uma forma simples de trabalhar com um estúdio de design",
+    "lead": "Briefings transparentes, etapas organizadas e ficheiros de elevada qualidade.",
+    "step1Title": "Briefing",
+    "step1Desc": "Partilhe objetivos, público e prazos. Definimos a orientação criativa.",
+    "step2Title": "Design",
+    "step2Desc": "Conceitos de logótipo, cor, paginação e tipografia até à aprovação.",
+    "step3Title": "Aplicação",
+    "step3Desc": "Expandimos o sistema para cartazes, panfletos, rótulos e meios digitais.",
+    "step4Title": "Entrega",
+    "step4Desc": "Ficheiros prontos para impressão e web com guia de utilização."
+  },
+  "clients": {
+    "title": "A confiança de empresas com presença no mercado",
+    "lead": "Desde produtos ayurvédicos a brinquedos e comércio internacional.",
+    "tagWellness": "Bem-Estar",
+    "tagTrade": "Comércio",
+    "tagPets": "Animais",
+    "tagToys": "Brinquedos",
+    "tagRetail": "Retalho",
+    "tagFood": "Alimentação",
+    "kelyDesc": "Identidade e suportes impressos para uma linha ayurvédica de bem-estar.",
+    "kottakkalDesc": "Design visual para uma marca tradicional de saúde natural.",
+    "welltechDesc": "Materiais corporativos para uma empresa internacional.",
+    "petsOriginDesc": "Embalagens e campanhas para produtos de nutrição animal.",
+    "oggyToyDesc": "Design vibrante para uma marca inovadora de brinquedos.",
+    "newDelmonDesc": "Design comercial para lojas e linhas de produtos.",
+    "alJazeeraDesc": "Embalagens, rótulos e materiais de marca comercial para distribuição alimentar."
+  },
+  "news": {
+    "tagStudio": "Estúdio",
+    "studioTitle": "Branding completo, não apenas um logótipo",
+    "studioDesc": "Logótipo, paleta de cores, cartazes e diretrizes para uma comunicação harmoniosa.",
+    "studioLink": "Iniciar projeto",
+    "tagPrintDigital": "Impressão & Digital",
+    "campaignTitle": "De um cartaz a uma campanha completa",
+    "campaignDesc": "Brochuras, panfletos, rótulos e imagens digitais com a mesma identidade visual.",
+    "campaignLink": "Solicitar campanha"
+  },
+  "contact": {
+    "eyebrow": "Contacto",
+    "title": "Diga-nos o que precisa de desenhar",
+    "lead": "Brochura, cartaz, panfleto, imagem digital, rótulo, logótipo ou branding integral. Envie uma mensagem e responderemos prontamente.",
+    "point1": "Ficheiros prontos para impressão e web",
+    "point2": "Sistemas de logótipo e cores estruturados",
+    "point3": "Cartazes, panfletos, rótulos e campanhas",
+    "nameLabel": "Nome",
+    "emailLabel": "Email",
+    "needLabel": "Qual é a sua necessidade?",
+    "selectPlaceholder": "Selecione um serviço",
+    "optBrochure": "Brochura / Catálogo",
+    "optPoster": "Cartaz / Poster",
+    "optFlyer": "Panfleto / Flyer",
+    "optDigital": "Imagens Digitais",
+    "optLabels": "Rótulos e Embalagens",
+    "optLogo": "Logótipo",
+    "optBranding": "Branding Completo (logo, cor, cartazes)",
+    "optOther": "Outro",
+    "messageLabel": "Mensagem",
+    "messagePlaceholder": "Fale-nos sobre a sua marca, o projeto pretendido e os prazos.",
+    "btnSubmit": "Enviar Mensagem",
+    "statusRequired": "Por favor preencha todos os campos.",
+    "statusSuccess": "A abrir a sua aplicação de email para envio da mensagem."
+  },
+  "footer": {
+    "tagline": "Design gráfico para impressão, digital e marcas.",
+    "allRights": "Todos os direitos reservados."
+  }
+}

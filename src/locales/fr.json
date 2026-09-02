@@ -1,0 +1,124 @@
+{
+  "nav": {
+    "services": "Services",
+    "whatWeMake": "Ce que nous créons",
+    "clients": "Clients",
+    "branding": "Branding",
+    "contact": "Contact",
+    "talkToUs": "Parlez-nous",
+    "getStarted": "Commencer"
+  },
+  "hero": {
+    "eyebrow": "Un design efficace à 100 %",
+    "title": "Un design sur mesure pour des entreprises qui veulent affirmer leur force.",
+    "lead": "Studio de design graphique créant des supports imprimés, packaging et identités numériques à fort impact.",
+    "getStarted": "Commencer",
+    "seeClients": "Voir nos clients"
+  },
+  "clientsStrip": {
+    "andMore": "& plus"
+  },
+  "intro": {
+    "title": "Conçu pour les marques qui doivent être vues",
+    "lead": "Nous travaillons avec des entreprises en croissance dans le bien-être, le commerce, les jouets et l'industrie. Qu'il s'agisse d'une affiche ou d'une identité visuelle complète, notre travail reste clair, cohérent et prêt pour la production.",
+    "printTitle": "Du print percutant",
+    "printDesc": "Brochures, affiches, flyers et étiquettes prêts pour l'impression — mises en page soignées et fichiers exploitables par votre imprimeur.",
+    "digitalTitle": "Du digital rayonnant",
+    "digitalDesc": "Visuels pour réseaux sociaux, bannières et créations web impeccables sur tous les écrans.",
+    "identityTitle": "Une identité durable",
+    "identityDesc": "Systèmes de logos, couleurs et typographies pour que chaque support reflète fidèlement votre marque."
+  },
+  "services": {
+    "title": "Un seul studio pour le print, le digital et le branding",
+    "lead": "Un seul brief, une seule équipe et un langage visuel harmonisé — du premier croquis aux fichiers finaux.",
+    "brochuresTitle": "Brochures",
+    "brochuresDesc": "Catalogues de produits, profils d'entreprise et dépliants qui mettent en valeur votre savoir-faire.",
+    "postersTitle": "Affiches & flyers",
+    "postersDesc": "Supports événementiels et publicitaires conçus pour capter l'attention dans la rue ou sur le web.",
+    "digitalTitle": "Images numériques",
+    "digitalDesc": "Publications sociales, bannières et visuels web optimisés pour vos plateformes préférées.",
+    "labelsTitle": "Étiquettes & packaging",
+    "labelsDesc": "Étiquettes de produits et habillages d'emballage lisibles en rayon et conformes aux normes d'impression."
+  },
+  "pillars": {
+    "localTitle": "Pertinence locale",
+    "localDesc": "Des visuels adaptés à vos marchés — cosmétiques ayurvédiques, commerce, jouets et négoce.",
+    "deliveryTitle": "Livraison fiable",
+    "deliveryDesc": "Fichiers structurés, exports prêts à imprimer et suivi rigoureux de chaque étape.",
+    "controlTitle": "Maîtrise de la marque",
+    "controlDesc": "Règles claires pour la couleur, la typographie et le logo afin d'assurer une cohérence totale."
+  },
+  "ctaBand": {
+    "title": "Lancez une marque, ou sublimez celle que vous avez",
+    "lead": "Faire du branding avec nous, c'est obtenir un logo, une sélection de couleurs, des affiches et tous les éléments indispensables.",
+    "btn": "Commencer"
+  },
+  "simplify": {
+    "title": "Une collaboration simple et fluide avec notre studio",
+    "lead": "Des briefs précis, des étapes structurées et des fichiers maîtres pérennes.",
+    "step1Title": "Brief",
+    "step1Desc": "Expliquez-nous le projet, la cible et vos délais. Nous définissons la direction artistique.",
+    "step2Title": "Design",
+    "step2Desc": "Concepts pour le logo, les couleurs, la mise en page et la typographie jusqu'à validation.",
+    "step3Title": "Déploiement",
+    "step3Desc": "Déclinaison du système sur vos affiches, flyers, étiquettes et supports digitaux.",
+    "step4Title": "Livraison",
+    "step4Desc": "Fichiers haute définition print et web avec guide d'utilisation complet."
+  },
+  "clients": {
+    "title": "La confiance d'entreprises qui vendent au quotidien",
+    "lead": "Des maisons ayurvédiques aux marques de jouets et acteurs du commerce international.",
+    "tagWellness": "Bien-être",
+    "tagTrade": "Commerce",
+    "tagPets": "Animaux",
+    "tagToys": "Jouets",
+    "tagRetail": "Retail",
+    "tagFood": "Alimentation",
+    "kelyDesc": "Design de marque et supports imprimés pour une gamme de soins ayurvédiques.",
+    "kottakkalDesc": "Création visuelle pour un nom emblématique de la médecine traditionnelle.",
+    "welltechDesc": "Communication d'entreprise et visuels produits pour un groupe international.",
+    "petsOriginDesc": "Packaging et campagnes promotionnelles pour une marque pour animaux de compagnie.",
+    "oggyToyDesc": "Visuels ludiques et dynamiques pour une marque de jouets.",
+    "newDelmonDesc": "Design prêt pour la vente au détail et nouvelle gamme de produits.",
+    "alJazeeraDesc": "Emballages, étiquettes et supports de marque commerciale pour la distribution alimentaire."
+  },
+  "news": {
+    "tagStudio": "Studio",
+    "studioTitle": "Un branding complet, pas seulement un fichier de logo",
+    "studioDesc": "Logo, palette de couleurs, affiches et directives pour donner un cadre solide à vos créations.",
+    "studioLink": "Démarrer un projet de marque",
+    "tagPrintDigital": "Print & digital",
+    "campaignTitle": "D'une simple affiche à une campagne complète",
+    "campaignDesc": "Brochures, flyers, étiquettes et images digitales partageant une identité visuelle forte et épurée.",
+    "campaignLink": "Briefer une campagne"
+  },
+  "contact": {
+    "eyebrow": "Contactez-nous",
+    "title": "Parlez-nous de votre projet de design",
+    "lead": "Brochure, affiche, flyer, visuel digital, étiquette, logo ou identité de marque complète. Envoyez-nous un mot et nous vous répondrons rapidement.",
+    "point1": "Fichiers prêts pour l'impression et le digital",
+    "point2": "Système de logo et palette de couleurs",
+    "point3": "Affiches, flyers, étiquettes et campagnes",
+    "nameLabel": "Nom",
+    "emailLabel": "Email",
+    "needLabel": "Quel est votre besoin ?",
+    "selectPlaceholder": "Sélectionnez un service",
+    "optBrochure": "Brochure",
+    "optPoster": "Affiche",
+    "optFlyer": "Flyer",
+    "optDigital": "Images digitales",
+    "optLabels": "Étiquettes & packaging",
+    "optLogo": "Logo",
+    "optBranding": "Branding complet (logo, couleurs, affiches)",
+    "optOther": "Autre besoin",
+    "messageLabel": "Message",
+    "messagePlaceholder": "Parlez-nous de votre marque, du support souhaité et de vos délais.",
+    "btnSubmit": "Envoyer le message",
+    "statusRequired": "Veuillez remplir tous les champs.",
+    "statusSuccess": "Ouverture de votre application de messagerie pour envoyer votre demande."
+  },
+  "footer": {
+    "tagline": "Design graphique pour le print, le digital et les marques.",
+    "allRights": "Tous droits réservés."
+  }
+}
