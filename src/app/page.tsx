@@ -3,10 +3,18 @@
 import React, { useState, useEffect } from "react";
 import Image from "next/image";
 import { LANGUAGES, DICTIONARIES, LocaleKey } from "@/locales";
+import { InteractiveHoverButton } from "@/registry/magicui/interactive-hover-button";
+import { TextAnimate } from "@/registry/magicui/text-animate";
+import { Particles } from "@/registry/magicui/particles";
+import {
+  ScrollVelocityContainer,
+  ScrollVelocityRow,
+} from "@/registry/magicui/scroll-based-velocity";
 
 export default function Home() {
   const [currentLang, setCurrentLang] = useState<LocaleKey>("en");
   const [navOpen, setNavOpen] = useState(false);
+  const [isSubmitting, setIsSubmitting] = useState(false);
   const [formStatus, setFormStatus] = useState<{ message: string; color: string }>({
     message: "",
     color: "",
@@ -36,7 +44,7 @@ export default function Home() {
     setCurrentLang(e.target.value as LocaleKey);
   };
 
-  const handleSubmit = (e: React.FormEvent) => {
+  const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault();
     const name = formData.name.trim();
     const email = formData.email.trim();
@@ -46,28 +54,71 @@ export default function Home() {
     if (!name || !email || !need || !message) {
       setFormStatus({
         message: t.contact.statusRequired,
-        color: "#8a3a2a",
+        color: "#dc2626",
       });
       return;
     }
 
-    const subject = encodeURIComponent(`Design enquiry: ${need}`);
-    const body = encodeURIComponent(
-      `Name: ${name}\nEmail: ${email}\nNeed: ${need}\n\n${message}`
-    );
-    window.location.href = `mailto:hello@thepercentagecreative.com?subject=${subject}&body=${body}`;
+    setIsSubmitting(true);
     setFormStatus({
-      message: t.contact.statusSuccess,
-      color: "#1f8a45",
+      message: "",
+      color: "",
     });
-    setFormData({ name: "", email: "", need: "", message: "" });
+
+    try {
+      const response = await fetch("https://formspree.io/f/xkjnzwwp", {
+        method: "POST",
+        headers: {
+          "Content-Type": "application/json",
+          Accept: "application/json",
+        },
+        body: JSON.stringify({
+          name,
+          email,
+          need,
+          message,
+          language: currentLang,
+        }),
+      });
+
+      if (response.ok) {
+        setFormStatus({
+          message: t.contact.statusSuccess,
+          color: "#1f8a45",
+        });
+        setFormData({ name: "", email: "", need: "", message: "" });
+      } else {
+        const data = await response.json().catch(() => ({}));
+        const errorMessage =
+          data?.errors?.map((err: { message: string }) => err.message).join(", ") ||
+          "Oops! There was a problem submitting your form.";
+        setFormStatus({
+          message: errorMessage,
+          color: "#dc2626",
+        });
+      }
+    } catch {
+      setFormStatus({
+        message: "Oops! There was a problem submitting your form. Please try again.",
+        color: "#dc2626",
+      });
+    } finally {
+      setIsSubmitting(false);
+    }
   };
 
   return (
     <div className="page" dir={isRtl ? "rtl" : "ltr"}>
       <header className="nav">
         <a className="logo" href="#top" aria-label="The Percentage Creative home">
-          <span className="logo-mark" aria-hidden="true">%</span>
+          <Image
+            src="/The Percentage FZ-LLC-SYMBOL ONLY.png"
+            alt="The Percentage Creative Logo"
+            width={32}
+            height={32}
+            className="logo-img"
+            priority
+          />
           <span className="logo-text">The Percentage Creative</span>
         </a>
 
@@ -97,7 +148,9 @@ export default function Home() {
           </div>
 
           <a className="btn btn-ghost" href="#contact">{t.nav.talkToUs}</a>
-          <a className="btn btn-primary" href="#contact">{t.nav.getStarted}</a>
+          <InteractiveHoverButton href="#contact" className="nav-hover-btn">
+            {t.nav.getStarted}
+          </InteractiveHoverButton>
           <button
             className="menu-btn"
             id="menuBtn"
@@ -112,24 +165,57 @@ export default function Home() {
 
       <main id="top">
         <section className="hero">
-          <p className="eyebrow">{t.hero.eyebrow}</p>
-          <h1>{t.hero.title}</h1>
-          <p className="hero-lead">{t.hero.lead}</p>
-          <div className="hero-cta">
-            <a className="btn btn-primary" href="#contact">{t.hero.getStarted}</a>
-            <a className="btn btn-outline" href="#clients">{t.hero.seeClients}</a>
+          <Particles
+            className="hero-particles"
+            quantity={100}
+            ease={80}
+            color="#0e2a1f"
+            refresh
+          />
+          <div className="hero-content">
+            <p className="eyebrow">{t.hero.eyebrow}</p>
+            <h1>{t.hero.title}</h1>
+            <TextAnimate
+              key={currentLang}
+              animation="blurInUp"
+              by="character"
+              className="hero-lead"
+              once
+            >
+              {t.hero.lead}
+            </TextAnimate>
+            <div className="hero-cta">
+              <InteractiveHoverButton href="#contact">
+                {t.hero.getStarted}
+              </InteractiveHoverButton>
+              <a className="btn btn-ghost" href="#clients">{t.hero.seeClients}</a>
+            </div>
           </div>
-        </section>
 
-        <section className="logo-strip" aria-label="Client logos">
-          <a href="https://www.newdelmon.com/" target="_blank" rel="noopener noreferrer">NewDelmon</a>
-          <a href="https://petsorigin.com/" target="_blank" rel="noopener noreferrer">PetsOrigin</a>
-          <a href="https://welltechinternational.com/" target="_blank" rel="noopener noreferrer">Welltech International</a>
-          <a href="https://www.alwassimtrading.com/" target="_blank" rel="noopener noreferrer">Kely Ayurveda</a>
-          <a href="https://www.aljazeerafoods.ae/" target="_blank" rel="noopener noreferrer">Al Jazeera Foods</a>
-          <a href="https://oggytoy.com/" target="_blank" rel="noopener noreferrer">OggyToy</a>
-          <a href="https://www.kottakkalayurveda.ae" target="_blank" rel="noopener noreferrer">Kottakkal Ayurveda</a>
-          <span className="muted">{t.clientsStrip.andMore}</span>
+          <div className="logo-strip-velocity-wrapper" aria-label="Client quick links">
+            <ScrollVelocityContainer className="logo-strip-velocity">
+              <ScrollVelocityRow baseVelocity={3} direction={1}>
+                <a href="https://www.newdelmon.com/" target="_blank" rel="noopener noreferrer">NewDelmon</a>
+                <span className="velocity-dot">•</span>
+                <a href="https://petsorigin.com/" target="_blank" rel="noopener noreferrer">PetsOrigin</a>
+                <span className="velocity-dot">•</span>
+                <a href="https://welltechinternational.com/" target="_blank" rel="noopener noreferrer">Welltech International</a>
+                <span className="velocity-dot">•</span>
+                <a href="https://www.alwassimtrading.com/" target="_blank" rel="noopener noreferrer">Kely Ayurveda</a>
+                <span className="velocity-dot">•</span>
+                <a href="https://www.aljazeerafoods.ae/" target="_blank" rel="noopener noreferrer">Al Jazeera Foods</a>
+                <span className="velocity-dot">•</span>
+                <a href="https://oggytoy.com/" target="_blank" rel="noopener noreferrer">OggyToy</a>
+                <span className="velocity-dot">•</span>
+                <a href="https://www.kottakkalayurveda.ae" target="_blank" rel="noopener noreferrer">Kottakkal Ayurveda</a>
+                <span className="velocity-dot">•</span>
+                <span className="muted">{t.clientsStrip.andMore} ↗</span>
+                <span className="velocity-dot">•</span>
+              </ScrollVelocityRow>
+            </ScrollVelocityContainer>
+            <div className="velocity-fade velocity-fade-left"></div>
+            <div className="velocity-fade velocity-fade-right"></div>
+          </div>
         </section>
 
         <section className="intro" id="work">
@@ -235,7 +321,7 @@ export default function Home() {
             <h2>{t.ctaBand.title}</h2>
             <p>{t.ctaBand.lead}</p>
           </div>
-          <a className="btn btn-primary" href="#contact">{t.ctaBand.btn}</a>
+          <InteractiveHoverButton href="#contact">{t.ctaBand.btn}</InteractiveHoverButton>
         </section>
 
         <section className="simplify">
@@ -446,7 +532,14 @@ export default function Home() {
                 onChange={(e) => setFormData({ ...formData, message: e.target.value })}
               ></textarea>
             </label>
-            <button className="btn btn-primary" type="submit">{t.contact.btnSubmit}</button>
+            <button
+              className="btn btn-primary"
+              type="submit"
+              disabled={isSubmitting}
+              style={isSubmitting ? { opacity: 0.7, cursor: "not-allowed" } : undefined}
+            >
+              {isSubmitting ? "..." : t.contact.btnSubmit}
+            </button>
             <p
               className="form-status"
               id="formStatus"
@@ -461,8 +554,14 @@ export default function Home() {
 
       <footer className="footer">
         <div className="footer-top">
-          <a className="logo" href="#top">
-            <span className="logo-mark">%</span>
+          <a className="logo" href="#top" aria-label="The Percentage Creative home">
+            <Image
+              src="/The Percentage FZ-LLC-SYMBOL ONLY.png"
+              alt="The Percentage Creative Logo"
+              width={32}
+              height={32}
+              className="logo-img"
+            />
             <span className="logo-text">The Percentage Creative</span>
           </a>
           <p>{t.footer.tagline}</p>

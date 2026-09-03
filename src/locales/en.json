@@ -10,7 +10,7 @@
   },
   "hero": {
     "eyebrow": "Design that works at 100%",
-    "title": "Design crafted for businesses that want to look as strong as they are.",
+    "title": "Strong Design for Strong Businesses",
     "lead": "A graphic design studio creating high-impact print, packaging, and digital brand systems.",
     "getStarted": "Get Started",
     "seeClients": "See our clients"
@@ -115,7 +115,7 @@
     "messagePlaceholder": "Tell us about the brand, the piece, and the deadline.",
     "btnSubmit": "Send message",
     "statusRequired": "Please fill in every field.",
-    "statusSuccess": "Opening your email app to send the message."
+    "statusSuccess": "Thank you! Your message has been sent successfully."
   },
   "footer": {
     "tagline": "Graphic design for print, digital, and brand.",
